@@ -1,0 +1,10 @@
+Version Beta 4.0
+添加nginx解析漏洞检查
+加强whois稳定性
+支持Windows/Linux平台
+支持目标URL为IP地址
+使用httplib库代替urllib
+支持多插件调试
+标准化插件载入方式
+加强https支持
+重构内部代码
